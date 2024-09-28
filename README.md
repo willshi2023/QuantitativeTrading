@@ -30,3 +30,8 @@ pip install pygame
 
 # 运行
 使用 PyCharm，进入 `stock.py` 文件，右键运行即可。
+
+# 运行效果展示
+![日志](./source/log.png)
+![pushDeer](./source/pushDeer.png)
+![telegram](./source/telegram.png)
